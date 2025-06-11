@@ -28,22 +28,7 @@ Vemos una imágen con una opción de dejar datos más abajo para luego recibir u
 
 ![imagen](https://github.com/user-attachments/assets/48719727-72d6-400c-8b0a-81248a600059)
 
-# INFORMACIÓN DEL CODER:
-## Nombre: 
 
-Karina Andrea Henao Zuleta.
-
-## Clan: 
-
-Tesla.
-
-## Correo: 
-
-karihz0517@hotmail.com.
-
-## Identificación: 
-
-1035972403.
 
 
 
